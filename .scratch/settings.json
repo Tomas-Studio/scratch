@@ -1,0 +1,16 @@
+{
+  "theme": {
+    "mode": "system",
+    "customLightColors": null,
+    "customDarkColors": null
+  },
+  "editorFont": null,
+  "gitEnabled": null,
+  "pinnedNoteIds": null,
+  "textDirection": null,
+  "editorWidth": "custom",
+  "defaultNoteName": null,
+  "interfaceZoom": null,
+  "customEditorWidthPx": 800,
+  "ollamaModel": null
+}
